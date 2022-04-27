@@ -21,7 +21,7 @@ def get_extrinsic_data(block_hash):
             print(('Sender: {}'.format(
                 signed_by_address
             )))
-        
+         
 
 def subscription_handler(obj, update_nr, subscription_id):
     
